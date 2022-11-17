@@ -1,0 +1,15 @@
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/bin/Debug/net7.0/Seminar1
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/bin/Debug/net7.0/Seminar1.deps.json
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/bin/Debug/net7.0/Seminar1.runtimeconfig.json
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/bin/Debug/net7.0/Seminar1.dll
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/bin/Debug/net7.0/Seminar1.pdb
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.csproj.AssemblyReference.cache
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.AssemblyInfoInputs.cache
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.AssemblyInfo.cs
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.csproj.CoreCompileInputs.cache
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.dll
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/refint/Seminar1.dll
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.pdb
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/Seminar1.genruntimeconfig.cache
+/Users/tatanaperfileva/Desktop/C#/HomeWork/Seminar1/obj/Debug/net7.0/ref/Seminar1.dll
